@@ -18,9 +18,38 @@ We also used JSON (JavaScript Object Notation) and GeoJSON.
  The application analyses geolocated data, such as access points and base stations that users connected to, 
  and evaluates stay points and points of interest using DBSCAN algorithm. 
  
+## UI examples
 
+Search all the  Access Points and Base Stations a specific user connected to during a time period, as well as the route followed
+
+[Access Points Search](img/search.png)
  
+Access Points are displayed as grey dots, Base Stations (Cells) as antennas and the route followed is the purple line.
+The user can check specific information about theΑccess Points and the Βase Stations by clicking on them.
+
+![Access Points Search](img/access1.png)
  
+ Search points of interests 
  
- 
- 
+![Access Points Search](img/search1.png)
+
+## Some Data
+
+Battery use
+
+![Access Points Search](img/batt.png)
+
+
+Operators
+
+![Access Points Search](img/operators.png)
+
+
+ATH
+
+![Access Points Search](img/res1a.png)
+
+
+What happens in Saint-Genis-Pouilly stays in Saint-Genis-Pouilly
+
+![Access Points Search](img/busted.png)
