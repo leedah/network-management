@@ -22,7 +22,7 @@ We also used JSON (JavaScript Object Notation) and GeoJSON.
 
 Search all the  Access Points and Base Stations a specific user connected to during a time period, as well as the route followed
 
-[Access Points Search](img/search.png)
+![Access Points Search](img/search.png)
  
 Access Points are displayed as grey dots, Base Stations (Cells) as antennas and the route followed is the purple line.
 The user can check specific information about theΑccess Points and the Βase Stations by clicking on them.
